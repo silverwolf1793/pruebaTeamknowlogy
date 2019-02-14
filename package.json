@@ -1,0 +1,11 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "Prueba enviada por Armando Acosta",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Lic. Ing. Eric Saúl López Barragán",
+  "license": "ISC"
+}
